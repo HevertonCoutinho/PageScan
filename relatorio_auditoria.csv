@@ -1,0 +1,9 @@
+Tipo de Erro,Impacto,Solução
+Erros 4xx,Experiência do usuário prejudicada e autoridade sendo dissipada...,Remova as linkagens internas e redirecione os URLs quebrados
+
+Tipo de Dado Faltante,Descrição
+WebPage,Dados estruturados ideais para páginas de blog estão faltando.
+Person,Dados estruturados ideais para páginas de blog estão faltando.
+Article,Dados estruturados ideais para páginas de blog estão faltando.
+BreadcrumbList,Dados estruturados ideais para páginas de blog estão faltando.
+FAQ,Dados estruturados ideais para páginas de blog estão faltando.
